@@ -5190,7 +5190,7 @@ USA
                 <example type="triggers_error">... such that the elements fixing a point form a copy of the Mathieu group M12.</example><!-- #2789 -->
                 <example type="triggers_error">Flinders Reefs (North and South), Herald's Surprise and Dart Reef form a cluster of reefs of 66 by 26 km.</example><!-- #2789 -->
                 <example type="triggers_error">The obligations and corresponding rights between lord and vassal concerning the fief form the basis of the feudal relationship.</example><!-- #2789 -->
-                <example type="triggers_error">Over one million Taiwanese participate in the 228 Hand-in-Hand rally form a long human chain to commemorate the February 28 Incident in 1947.</example><!-- #2789 -->
+                <example>Over one million Taiwanese participate in the 228 Hand-in-Hand rally form a long human chain to commemorate the February 28 Incident in 1947.</example><!-- #2789 -->
                 <example type="triggers_error">If the automorphisms of an object form a set (instead of a proper class)...</example><!-- #2789 -->
                 <example type="triggers_error">The transformations of the fifteen puzzle form a groupoid (not a group, as not all moves can be composed).</example><!-- #2789 -->
                 <example type="triggers_error">... or of an object of a category form a monoid under composition.</example><!-- #2789 -->
@@ -81429,7 +81429,7 @@ USA
                 <message>Make sure that the adjective '\3' is correct. Possibly, it should be an adverb (typically ~ly) that modifies '\4'. Possibly, it should be the first word in a compound adjective (hyphenated adjective). Possibly, it is correct.</message><!-- I did not use a suggestion for the compound adjectives, because I think that that is misleading because we don't give a suggestion for the adverb. -->
                 <example correction="">It's a <marker>common used</marker> tool for spammers.</example>
                 <example correction="">The boss said this group is a <marker>real mixed</marker> bag.</example><!-- Informal AmE: https://www.lexico.com/en/definition/real. In standard English, use 'really'. -->
-                <example correction="">... suitable for mounted action and there was a <marker>long established</marker> culture of horsemanship amongst the Arab and...</example><!-- Should be a hyphenated adjective -->
+                <example>... suitable for mounted action and there was a <marker>long established</marker> culture of horsemanship amongst the Arab and...</example><!-- Should be a hyphenated adjective -->
                 <example correction="">You're a <marker>natural born</marker> talker.</example><!-- Hyphenated adjective -->
                 <example correction="">Beauty is a <marker>short lived</marker> tyranny.</example><!-- Hyphenated adjective -->
                 <example correction="">It was the <marker>initial wound</marker> area.</example><!-- #2722 This sentence is ambiguous. If 'wound' is a verb, then the warning is correct. If 'wound' is a noun, it's a false positive. DT_JJ_NN_JJ removes the noun reading. -->
